@@ -1,0 +1,63 @@
+.widget {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  padding: 10px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 10px;
+  height: 100px;
+  background-color: transparent; // Make the background transparent
+  border: 1px solid rgba(255, 255, 255, 0.2); // Default background color
+  transition: all 0.3s ease; // Smooth transition for hover effects
+
+  &:hover {
+    transform: translateY(-5px); // Slightly lifts the widget
+    box-shadow: 4px 8px 15px 2px rgba(0, 0, 0, 0.2); // Add a stronger shadow
+    background-color: #e8fcf7; // Slightly different background
+  }
+
+  .left,
+  .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 14px;
+    color: #5ad4b6;
+  }
+
+  .counter {
+    font-size: 28px;
+    font-weight: 300;
+  }
+
+  .link {
+    width: max-content;
+    font-size: 12px;
+    border-bottom: 1px solid gray;
+  }
+
+  .percentage {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+
+    &.positive {
+      color: green;
+    }
+    &.negative {
+      color: red;
+    }
+  }
+
+  .icon {
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    align-self: flex-end;
+  }
+}
