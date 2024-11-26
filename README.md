@@ -52,14 +52,19 @@ npm start
 Open your browser and navigate to http://localhost:3000.
 
 📸 Screenshots
-![ad1](https://github.com/user-attachments/assets/f8eb917d-b367-4cba-bc7a-4ec43a786654)
-![ad3](https://github.com/user-attachments/assets/f0883983-3d99-45da-b7fc-bf6294ea072c)
-![ad4](https://github.com/user-attachments/assets/26507d7a-18a2-4ba5-83e3-0bb4cd2fbc0a)
+![image](https://github.com/user-attachments/assets/e2f40559-71e3-455c-9868-7663b377bbdb)
+![image](https://github.com/user-attachments/assets/57458a14-ed86-44a1-9cab-f855425f070a)
+![image](https://github.com/user-attachments/assets/d6caa10a-015f-4914-9998-8dfc06d6eb61)
+![image](https://github.com/user-attachments/assets/47fb02e5-0a11-4b70-a0c5-b18fd3ef3138)
 ![ad5](https://github.com/user-attachments/assets/8ac2c07a-0792-4b5e-b125-cee6f02be1c8)
 
 
 
 
-https://github.com/user-attachments/assets/499929c4-58fb-420d-b658-9c9ac5da7185
+https://github.com/user-attachments/assets/4df6d65c-1131-4db4-95a3-1a303cbe5e7e
+
+
+
+
 
 
