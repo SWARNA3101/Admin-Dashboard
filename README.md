@@ -63,6 +63,3 @@ Open your browser and navigate to http://localhost:3000.
 https://github.com/user-attachments/assets/499929c4-58fb-420d-b658-9c9ac5da7185
 
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
