@@ -17,7 +17,9 @@ Simplified UI for managing access control.
 Interactive Widgets:
 Dynamic widgets for tracking users, orders, earnings, and balance.
 Hover effects, transparent designs, and responsive layouts.
+
 🛠️ Tech Stack
+
 Frontend: ReactJS, SCSS, Material-UI Icons.
 Styling: SCSS for modular and reusable styles.
 State Management: Props and context (optional for future scaling).
@@ -27,14 +29,21 @@ Mock APIs: Simulated backend calls for CRUD operations.
 Clone the repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/SWARNA3101/Admin-Dashboard.git
+
 cd Admin-Dashboard
+
 Install dependencies:
 
 bash
+
 Copy code
+
 npm install
+
 Start the development server:
 
 bash
@@ -48,6 +57,10 @@ Open your browser and navigate to http://localhost:3000.
 ![ad4](https://github.com/user-attachments/assets/26507d7a-18a2-4ba5-83e3-0bb4cd2fbc0a)
 ![ad5](https://github.com/user-attachments/assets/8ac2c07a-0792-4b5e-b125-cee6f02be1c8)
 
+
+
+
+https://github.com/user-attachments/assets/499929c4-58fb-420d-b658-9c9ac5da7185
 
 
 📄 License
